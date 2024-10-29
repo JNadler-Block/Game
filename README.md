@@ -1,4 +1,4 @@
-# Game
+# Dim Dungeon
 Text Adventure  
 Player progresses through a dungeon fighting challenging bosses,  
 finding rare items, and competing on a local leaderboard.  
